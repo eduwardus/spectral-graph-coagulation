@@ -25,4 +25,4 @@ The repository supports analyses related to:
 
 ## Author
 
-Eduardo Gonzalez
+Eduardo Gonzalez-Granda Fernandez
