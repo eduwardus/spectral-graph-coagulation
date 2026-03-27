@@ -1,0 +1,12 @@
+# N max_r mean_escape_time horizon_candidate n_critical
+5000 10 109.292 None 2
+5914 10 190.234 None 2
+5995 10 58.200 None 3
+8480 11 1.444 None 3
+11906 10 25.750 None 2
+11924 10 206.983 None 7
+23744 10 223.931 None 2
+23803 10 198.896 None 1
+100913 12 232.500 None 2
+100913 8 326.500 None 1
+100913 11 168.333 None 3
